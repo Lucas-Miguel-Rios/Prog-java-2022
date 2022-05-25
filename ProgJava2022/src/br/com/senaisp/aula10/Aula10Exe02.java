@@ -1,3 +1,4 @@
+package br.com.senaisp.aula10;
 import java.util.Scanner;
 
 public class Aula10Exe02 {

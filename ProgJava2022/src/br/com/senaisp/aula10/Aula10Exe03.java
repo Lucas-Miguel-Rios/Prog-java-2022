@@ -39,7 +39,7 @@ public class Aula10Exe03 {
 		
 			do {
 				System.out.println("Digite o preço unitário");
-			}
+			}while();
 		//comparar depois com o do professor, e continuar a programar.
 		
 		
