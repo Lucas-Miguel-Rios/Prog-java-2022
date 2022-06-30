@@ -3,6 +3,8 @@ package br.com.senaisp.aula23.classes;
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -12,8 +14,6 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
 import br.com.senaisp.aula21.classes.Cliente;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
 
 public class FormularioWindowBuilderTest extends JFrame {
 
